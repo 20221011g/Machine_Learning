@@ -18,3 +18,9 @@ As data scientists, your team is asked to analyze and transform the data availab
 **Master Degree in Data Science and Advanced Analytics**
 
 *Universidade Nova de Lisboa*
+
+## Data
+The folder data contains 6 excel files, three are for training and the other three three for testing without the outcome, those are evaluated through a kaggle competition.
+
+## Python environment
+The yaml file contains a conda environment used for the development of the project. It may contain unnecessary packages.
