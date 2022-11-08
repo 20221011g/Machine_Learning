@@ -23,4 +23,4 @@ As data scientists, your team is asked to analyze and transform the data availab
 The folder data contains 6 excel files, three are for training and the other three three for testing without the outcome, those are evaluated through a kaggle competition.
 
 ## Python environment
-The yaml file contains a conda environment used for the development of the project. It may contain unnecessary packages.
+The yaml file contains a conda environment used for the development of the project. It may contain unnecessary packages, nevertheless, the use of the environment is recommended for the rendering of plots. If you decide not to use the conda environment, make sure to have installed, holoviews, hvplot and panel.
